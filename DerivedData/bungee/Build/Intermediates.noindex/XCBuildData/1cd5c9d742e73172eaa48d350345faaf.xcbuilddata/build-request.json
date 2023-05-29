@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "96feab5ba18f373dbd76f4bbc8a44fdf15773be7939edead52970fe363bfb7bf"
+    }
+  ],
+  "containerPath" : "/Users/patriknusszer/Documents/bungee/bungee.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/patriknusszer/Documents/bungee/DerivedData/bungee/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/patriknusszer/Documents/bungee/DerivedData/bungee/Build/Products",
+      "derivedDataPath" : "/Users/patriknusszer/Documents/bungee/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/patriknusszer/Documents/bungee/DerivedData/bungee/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/patriknusszer/Documents/bungee/DerivedData/bungee/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/patriknusszer/Documents/bungee/DerivedData/bungee/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
